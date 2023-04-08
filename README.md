@@ -2,6 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+1. Open terminal
+2. Type command -> npm i or npm install
+3. Type command -> npm run dev
+4. Open any browser and hit http://localhost:3000
+5. All code is in src folder
+
+
 First, run the development server:
 
 ```bash
